@@ -5,4 +5,6 @@ It contains tons of different modes, including Auto, which is an heuristic appro
 
 To play this game you need to download it from here: https://drive.google.com/file/d/1Ab4lP2J1KgszubaacpLdNMleQ7f-PIbc/view?usp=sharing
 
+Sorry for the messy implementation, it was a challenge to finish the game as soon as possible.
+
 Have fun!
